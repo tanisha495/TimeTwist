@@ -1,0 +1,6 @@
+{
+  "name": "TimeTwist: The Wizard's Paradox",
+  "description": "A reverse learning web app with a retro-fantasy theme. Students are given final answers and must work backwards to reconstruct the original question or logic, with their reasoning evaluated by an AI. Features include subject-specific playgrounds, a peer-review arena, and timed challenges.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
